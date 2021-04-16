@@ -22,7 +22,7 @@ export default function NavigationBar() {
             >
               <div className="flex items-center flex-1">
                 <div className="flex items-center justify-between w-full md:w-auto">
-                  <a href="/">
+                  <a href="../">
                     <h1 className="text-2xl text-white">東恆資訊科技</h1>
                   </a>
                   <div className="-mr-2 flex items-center md:hidden">
