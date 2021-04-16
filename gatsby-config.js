@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "DHIT",
+    siteUrl: `https://chaoyenpo.github.io/dhit-website`,
   },
   plugins: [
     "gatsby-plugin-postcss",
