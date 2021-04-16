@@ -1,13 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: "site2",
+    title: "DHIT",
   },
   plugins: [
+    "gatsby-plugin-postcss",
     {
       resolve: "gatsby-source-contentful",
       options: {
-        accessToken: "QaQFSeWuNAMn3a0ioNA5db0KHxp-4G_gEduUDn_u7aE",
-        spaceId: "",
+        accessToken: "ELG97uCSlYl2UkWyfCUI8fD-C5rJf32hfISGJAWeSZQ",
+        spaceId: "e3wmhi6ab24f",
       },
     },
     "gatsby-plugin-gatsby-cloud",
