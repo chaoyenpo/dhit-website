@@ -28,8 +28,8 @@ jobs:
           node-version: 15.x
       - run: npm ci
       - run: npm run build --if-present
-      - id: upload-file
-        uses: google-github-actions/upload-cloud-storage@main
+      
+      - uses: google-github-actions/upload-cloud-storage@main
         with:
           credentials: ${{ secrets.gcp }}
           path: /public
