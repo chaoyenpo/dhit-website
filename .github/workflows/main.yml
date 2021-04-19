@@ -27,7 +27,7 @@ jobs:
         with:
           node-version: 15.x
       - run: npm ci
-      - run: npm run build --if-present
+      - run: npm run build
       
       - uses: google-github-actions/upload-cloud-storage@main
         with:
