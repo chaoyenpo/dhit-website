@@ -7,7 +7,7 @@ import {
 
 const navigation = [
   // { name: '服務項目', href: 'service' },
-  { name: '聯繫我們', href: 'contact' },
+  { name: '聯繫我們', href: '/contact' },
 ]
 
 export default function NavigationBar() {
