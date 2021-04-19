@@ -32,5 +32,5 @@ jobs:
       - uses: google-github-actions/upload-cloud-storage@main
         with:
           credentials: ${{ secrets.gcp }}
-          path: /public
+          path: public
           destination: dhit-website
