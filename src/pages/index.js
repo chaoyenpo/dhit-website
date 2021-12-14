@@ -15,30 +15,14 @@ import Footer from '../components/footer'
 
 const features = [
   {
-    name: '轉鑰系統',
-    description: '指一系統，包括軟體、硬體、設定、使用等，均於建置完成後即可使用，不需採購單位再另外採購附加設備；且使用單位只要把該系統當作黑箱系統即可順利運作。',
+    name: '監控服務',
+    description: '我們的客製化監控系統功能包含網站監控、頁面性能監控、API 監控和基礎設施監控，全方位的 IT 監控服務。',
     icon: LibraryIcon,
-  },
-  {
-    name: '系統整合',
-    description: '即依照系統的設計需求，有步驟的將系統中的不同軟、硬體元件裝配起來，並經測試、證明的確符合設計需求的過程。',
-    icon: RefreshIcon,
   },
   {
     name: '機房建置與管理',
     description: '我們處理世界各地無數的地端與雲端架構，混合雲整合更是經驗獨到，讓我們為您提供地端雲端整合一條龍服務。',
     icon: ServerIcon,
-  },
-  {
-    name: '資訊安全',
-    description: '針對資訊系統能夠保證其精確性、完整性、操作連續性及穩定性，所需配合的管理與控制措施。',
-    icon: ShieldCheckIcon,
-  },
-  {
-    name: '軟體開發',
-    description:
-      '各種產業的軟體開發，從瀏覽器與桌面應用到跨平台整合開發，我們皆有十分扎實的開發經驗。我們也與各產業的領域知識專家相互合作。',
-    icon: HeartIcon,
   },
   {
     name: '專業諮詢服務',
@@ -121,10 +105,10 @@ export default function Example() {
             <div className="mx-auto max-w-md px-4 text-center sm:max-w-3xl sm:px-6 lg:px-8 lg:max-w-7xl">
               <h2 className="text-base font-semibold tracking-wider text-cyan-600 uppercase">專業服務</h2>
               <p className="mt-2 text-3xl font-extrabold text-gray-900 tracking-tight sm:text-4xl">
-                東恆提供最優質的全方位資訊科技服務
+                原力雲提供最優質的資訊技術服務
               </p>
               <p className="mt-5 max-w-prose mx-auto text-xl text-gray-500">
-                針對客戶需求進行軟體開發、諮詢、教育訓練、電腦設備或機房管理等服務，提供客戶一整套完整的資訊系統。
+                我們有著長年累月的運維經驗與多年研發的客製化監控系統造就出極佳的系統妥善率，雲端與機房我們皆能夠透過長久累積的強大實力輕鬆協助您解決所有問題！
               </p>
               <div className="mt-12">
                 <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">

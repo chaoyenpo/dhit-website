@@ -23,7 +23,7 @@ export default function NavigationBar() {
               <div className="flex items-center flex-1">
                 <div className="flex items-center justify-between w-full md:w-auto">
                   <a href="/">
-                    <h1 className="text-2xl text-white">東恆資訊科技</h1>
+                    <h1 className="text-2xl text-white">原力雲</h1>
                   </a>
                   <div className="-mr-2 flex items-center md:hidden">
                     <Popover.Button className="bg-gray-900 rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:bg-gray-800 focus:outline-none focus:ring-2 focus-ring-inset focus:ring-white">

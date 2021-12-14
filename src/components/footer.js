@@ -106,7 +106,7 @@ export default function Example() {
           </div>
         </div>
         <div className="mt-12 py-8">
-          <p className="text-base text-gray-400 xl:text-center">&copy; 2021 DHIT Ltd. All rights reserved.</p>
+          <p className="text-base text-gray-400 xl:text-center">&copy; 2021 Force Cloud Co., Ltd. All rights reserved.</p>
         </div>
       </div>
     </footer>

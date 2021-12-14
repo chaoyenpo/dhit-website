@@ -1,20 +1,21 @@
 import React from 'react'
+import CtaImg from '../images/cta.jpg'
 
 /* This example requires Tailwind CSS v2.0+ */
 export default function Example() {
   return (
     <div className="relative bg-gray-900">
-      <div className="relative h-56 bg-indigo-600 sm:h-72 md:absolute md:left-0 md:h-full md:w-1/2">
+      <div className="relative h-56 bg-indigo-600 sm:h-72 md:absolute md:left-0 md:h-full md:w-6/12">
         <img
           className="w-full h-full object-cover"
-          src="https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=60&sat=-100"
+          src={CtaImg}
           alt=""
         />
-        <div
+        {/* <div
           aria-hidden="true"
           className="absolute inset-0 bg-gradient-to-r from-teal-500 to-cyan-600"
           style={{ mixBlendMode: 'multiply' }}
-        />
+        /> */}
       </div>
       <div className="relative mx-auto max-w-md px-4 py-12 sm:max-w-7xl sm:px-6 sm:py-20 md:py-28 lg:px-8 lg:py-32">
         <div className="md:ml-auto md:w-1/2 md:pl-10">

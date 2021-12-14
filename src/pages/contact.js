@@ -13,7 +13,7 @@ export default function Example() {
           <div className="grid grid-cols-1  py-16 max-w-7xl mx-auto px-6 lg:px-8 md:grid-cols-2">
             <div className="pr-0 md:pr-32">
               <p className="text-base text-gray-400 pb-10">請與我們聯繫</p>
-              <p className="text-6xl pb-10">我們來看看東恆如何為您的公司提供幫助。</p>
+              <p className="text-6xl pb-10">我們來看看原力雲如何為您的公司提供幫助。</p>
               <p className="text-base text-gray-700">
                 我們希望收到您的來信，任何需要與我們協助的地方，都歡迎您與我們聯繫，我們將竭誠為您服務！
                 <br></br>
