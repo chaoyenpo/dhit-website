@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdhit=self.webpackChunkdhit||[]).push([[482],{7335:function(e,n,t){t.r(n),t.d(n,{default:function(){return r}});var u=t(7294);function r(){return u.createElement("div",null,"服務項目")}}}]);
+//# sourceMappingURL=component---src-pages-service-js-bde19014a181c3d32e7e.js.map

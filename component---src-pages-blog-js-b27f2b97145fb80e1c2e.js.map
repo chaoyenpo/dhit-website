@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-blog-js-b27f2b97145fb80e1c2e.js","mappings":"yJAEe,SAASA,IACtB,OACE","sources":["webpack://dhit/./src/pages/blog.js"],"sourcesContent":["import React from 'react'\n\nexport default function Blog() {\n  return (\n    <div>\n      部落格\n    </div>\n  )\n}"],"names":["Blog"],"sourceRoot":""}

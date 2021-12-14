@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://dhit/./src/pages/service.js"],"names":["Service"],"mappings":"4JAEe,SAASA,IACtB,OACE","file":"component---src-pages-service-js-46ba3112b7736b2c88a3.js","sourcesContent":["import React from 'react'\n\nexport default function Service() {\n  return (\n    <div>\n      服務項目\n    </div>\n  )\n}"],"sourceRoot":""}
