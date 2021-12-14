@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/dhit-website",
   siteMetadata: {
     title: "DHIT",
     siteUrl: `https://chaoyenpo.github.io/dhit-website`,
